@@ -1,0 +1,15 @@
+Unidecode
+python-terrier
+nltk
+pandas
+numpy
+tqdm
+scipy
+torch
+torch_scatter
+sentence-transformers
+transformers
+anthropic
+bitsandbytes
+openai
+vllm
